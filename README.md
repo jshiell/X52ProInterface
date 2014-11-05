@@ -1,7 +1,7 @@
 X52ProInterface
 ===============
 
-This is a partial interface via Java to the Saitek X52 Pro (primarily the MFD). If I get organised enough it'll probably get ported to Objective-C, so I can have an accurate clock when I'm in OS X.
+This is a partial interface via Java to the Saitek X52 Pro (primarily the MFD). It was written as a prototype before starting https://github.com/jshiell/X52ProMac
 
 At present you can use it to:
 
